@@ -30,7 +30,7 @@ MultilingualMate is a lightweight desktop application built with tkinter and ttk
 
 1. Clone the repo or download the files
 ```python
-git clone https://github.com/SamanaFatimaa/MultilingualMate.git
+git clone https://github.com/SamanaFatimaa/Multilingual_mate.git
 cd MultilingualMate
 ```
 
